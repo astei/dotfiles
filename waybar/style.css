@@ -55,6 +55,10 @@ window#waybar.solo {
     border-bottom: 3px solid #ffffff;
 }
 
+#clock {
+    font-weight: bold;
+}
+
 #clock,
 #battery,
 #cpu,
